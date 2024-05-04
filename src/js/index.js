@@ -46,7 +46,7 @@ function init() {
         });
 
         object.position.y = - 0;
-        object.scale.setScalar(5);
+        object.scale.setScalar(8);
         scene.add(object);
 
         render();
